@@ -1,16 +1,26 @@
-# petcare_sm
+# PetCare Mobile App
 
-A new Flutter application.
+A new social network for your pets, that will allow you to have more conrol about the quality of life of yours pets.
+
+The app will allow a security for your pet in case or lost and help find clothes that will fit to your pet.
+
+
+## Prototypes
+These are some prototypes of some features of AR that we want to develop for this application.
+
+- ### Using AR to look at how would be your pet wearing some clothes or accessories:
+    ![image](https://user-images.githubusercontent.com/39438103/118421024-d081b880-b685-11eb-990a-c09b90e8d8ca.png)
+    
+- ### Using QR Code to read and load basic information about yor pet in case of lost:
+    ![image](https://user-images.githubusercontent.com/39438103/118421073-ee4f1d80-b685-11eb-8c35-64c22eb8e7b4.png)
+
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is using at the moment some things of AR and it's just the beginning.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Versions
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is 0.0.1v project version using Flutter 1.0v Version
